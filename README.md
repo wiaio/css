@@ -1,4 +1,6 @@
-# Airbnb CSS / Sass Styleguide
+# Wia CSS / Sass Styleguide
+
+> Forked from [Airbnb's Style Guide](https://github.com/airbnb/css)
 
 *A mostly reasonable approach to CSS and Sass*
 
